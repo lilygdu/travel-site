@@ -80,6 +80,7 @@ nav ul a {
   height: 30rem;
   background-image: url(hero.jpg);
   background-size: cover;
+  background-position-y: 25%;
   color: white;
   display: grid;
   place-items: center;
